@@ -1,0 +1,11 @@
+ID,Name,Type,X,Y
+F1,Cairo International Airport,Airport,31.41,30.11
+F2,Ramses Railway Station,Transit Hub,31.25,30.06
+F3,Cairo University,Education,31.21,30.03
+F4,Al-Azhar University,Education,31.26,30.05
+F5,Egyptian Museum,Tourism,31.23,30.05
+F6,Cairo International Stadium,Sports,31.3,30.07
+F7,Smart Village,Business,30.97,30.07
+F8,Cairo Festival City,Commercial,31.4,30.03
+F9,Qasr El Aini Hospital,Medical,31.23,30.03
+F10,Maadi Military Hospital,Medical,31.25,29.95

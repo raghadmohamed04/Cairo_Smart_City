@@ -1,0 +1,16 @@
+ID,Name,Population,Type,X,Y
+1,Maadi,250000,Residential,31.25,29.96
+2,Nasr City,500000,Mixed,31.34,30.06
+3,Downtown Cairo,100000,Business,31.24,30.04
+4,New Cairo,300000,Residential,31.47,30.03
+5,Heliopolis,200000,Mixed,31.32,30.09
+6,Zamalek,50000,Residential,31.22,30.06
+7,6th October City,400000,Mixed,30.98,29.93
+8,Giza,550000,Mixed,31.21,29.99
+9,Mohandessin,180000,Business,31.2,30.05
+10,Dokki,220000,Mixed,31.21,30.03
+11,Shubra,450000,Residential,31.24,30.11
+12,Helwan,350000,Industrial,31.33,29.85
+13,New Administrative Capital,50000,Government,31.8,30.02
+14,Al Rehab,120000,Residential,31.49,30.06
+15,Sheikh Zayed,150000,Residential,30.94,30.01
